@@ -1,0 +1,8 @@
+{
+  "name": "CommerceKit Studio",
+  "description": "AI-powered Social Media Product Resizer, Multi-Platform SEO Generator, and Brand Invoice Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
