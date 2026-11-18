@@ -46,6 +46,9 @@ export const metadata: Metadata = {
     description:
       'AI-powered Social Media Product Resizer, Multi-Platform SEO Generator, and Brand Invoice Studio.',
   },
+  other: {
+    'google-adsense-account': 'ca-pub-5213770154245570',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
